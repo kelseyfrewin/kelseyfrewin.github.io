@@ -6,7 +6,7 @@ subtitle: A developmental psychologist exploring how babies make sense of object
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kf_photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
 
