@@ -2,13 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: A developmental psychologist exploring how babies make sense of objects, actions, and words in the world around them. 
+subtitle: A developmental psychologist exploring how babies make sense of objects, actions, and words in the world around them.
 
 profile:
   align: right
   image: kf_photo.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
