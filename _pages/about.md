@@ -26,7 +26,7 @@ I am a postdoctoral researcher in developmental psychology, and my research is d
 
 I conducted my doctoral studies at the [**Cardiff University Centre for Human Developmental Science**](https://www.cardiff.ac.uk/research/explore/research-units/centre-for-human-developmental-science), exploring when babies start to understand their first verbs and links between their verb knowledge and motor development, and I completed my PhD in 2023. 
 
-Since 2023, I have been a postdoctoral researcher at the [**University of East Anglia**] (https://www.uea.ac.uk/about/school-of-psychology) investigating infant object categorisation. In this work, I have been exploring new figure out which object categories – such as books, balls, and cows – babies recognise from their experiences at home. I have also been working with deaf babies born to hearing families to understand whether access to language helps babies learn about these categories.
+Since 2023, I have been a postdoctoral researcher at the [**University of East Anglia**](https://www.uea.ac.uk/about/school-of-psychology) investigating infant object categorisation. In this work, I have been exploring new figure out which object categories – such as books, balls, and cows – babies recognise from their experiences at home. I have also been working with deaf babies born to hearing families to understand whether access to language helps babies learn about these categories.
 
 Across my research, I use a range of techniques to explore early development including infant EEG and eye-tracking, caregiver-infant interaction, standardised measures of development (such as the Mullen Scales of Early Learning and Preschool Language Scale), and caregiver report measures.
 
