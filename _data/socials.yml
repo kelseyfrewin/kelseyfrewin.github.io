@@ -10,4 +10,5 @@ researchgate_profile: Kelsey-Frewin
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: /assets/img/osf.jpeg # can be png, svg, jpg
+  title: osf
   url: https://osf.io/user/5q78d?tab=2
