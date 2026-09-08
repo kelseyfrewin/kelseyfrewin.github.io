@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: **A developmental psychologist exploring how babies make sense of objects, actions, and words in the world around them.**
+subtitle: 
 
 profile:
   align: right
