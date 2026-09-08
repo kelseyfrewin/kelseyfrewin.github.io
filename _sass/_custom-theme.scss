@@ -18,6 +18,8 @@
   /* Tell al-folio which colours to use */
 
   --global-bg-color: var(--background);
+  --global-card-bg-color: var(--background);
+  --global-code-bg-color: var(--background);
   --global-text-color: var(--text);
   --global-theme-color: var(--accent);
   --global-hover-color: var(--highlight);
@@ -39,6 +41,8 @@ html[data-theme="dark"] {
   /* Tell al-folio which colours to use */
 
   --global-bg-color: var(--background);
+  --global-card-bg-color: var(--background);
+  --global-code-bg-color: var(--background);
   --global-text-color: var(--text);
   --global-theme-color: var(--accent);
   --global-hover-color: var(--highlight);
