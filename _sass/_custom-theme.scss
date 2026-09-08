@@ -1,0 +1,35 @@
+:root {
+  /* ========================================
+     Kelsey Frewin colour palette
+     ======================================== */
+
+  --dusk-blue: #26547c;
+  --bubblegum-pink: #ef476f;
+  --royal-gold: #ffd166;
+  --emerald: #06d6a0;
+
+  /* ========================================
+     al-folio theme colours
+     ======================================== */
+
+  --global-theme-color: var(--dusk-blue);
+  --global-hover-color: var(--bubblegum-pink);
+}
+
+html[data-theme="dark"] {
+  /* ========================================
+     Kelsey Frewin colour palette
+     ======================================== */
+
+  --dusk-blue: #26547c;
+  --bubblegum-pink: #ef476f;
+  --royal-gold: #ffd166;
+  --emerald: #06d6a0;
+
+  /* ========================================
+     al-folio theme colours
+     ======================================== */
+
+  --global-theme-color: var(--royal-gold);
+  --global-hover-color: var(--bubblegum-pink);
+}
