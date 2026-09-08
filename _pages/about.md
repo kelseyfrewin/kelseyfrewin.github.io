@@ -30,7 +30,7 @@ Since 2023, I have been a postdoctoral researcher at the [University of East Ang
 
 Across my research, I use a range of techniques to explore early development including infant EEG and eye-tracking, caregiver-infant interaction, standardised measures of development (such as the Mullen Scales of Early Learning and Preschool Language Scale), and caregiver report measures.
 
-If you'd like to find out more about these projects, there is more detail available in the [Publications](/publications/) and [Research](/projects/) pages.
+If you'd like to find out more about these projects, there is more detail available in the [Publications](/publications/) and [Research](/Research/) pages.
 
 I'm always happy to hear from other researchers, interested students, and curious parents. Feel free to email me at [Kelsey.L.Frewin@gmail.com](mailto:Kelsey.L.Frewin@gmail.com). 
 
