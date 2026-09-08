@@ -1,10 +1,10 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Dr Kelsey L. Frewin
+  label: Developmental Psychologist
+  email: Kelsey.L.Frewin@gmail.com
+  location: Norwich, UK
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: A developmental psychologist exploring how babies make sense of objects, actions, and words in the world around them. My research combines behavioural and neurophysiological methods, including EEG and eye-tracking, to understand how language and everyday experience shape early cognitive development.
 
   social_networks:
     - network: X
@@ -15,36 +15,43 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 
+    city: 
+    region: 
+    postalCode:
+    countryCode: 
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Cardiff University
+        location: Cardiff, UK
+        url: https://www.cardiff.ac.uk/
+        area: Developmental Psychology and Developmental Cognitive Neuroscience
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2019
+        end_date: 2023
         score: ""
-        courses: "Theory of Relativity"
+        courses: 
         highlights:
-          - Description 1.
-          - Description 2.
+          - Frewin et al. (2026): earliest evidence of verb comprehension in infancy, demonstrating that 10-month-olds recognise mislabelled actions.
+          - Frewin et al. (2025): showed that infants’ motor development is more strongly associated with verb than noun vocabulary growth, suggesting a role for infants’ own actions in verb learning.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: University of Sussex
+        location: Brighton, UK
+        area: Cognitive Neuroscience 
+        studyType: MSc
+        score: Distinction
+        start_date: 2015
+        end_date: 2016
+
+        - institution: Aberystwyth University 
+        location: Aberystwyth, UK
+        area: Psychology
+        studyType: BSc
+        score: First Class (Hons)
+        start_date: 2011
+        end_date: 2014
+        
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
