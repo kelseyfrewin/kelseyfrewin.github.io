@@ -1,5 +1,5 @@
 cv:
-  name: Dr Kelsey L. Frewin
+  name: Kelsey L. Frewin
   label: Developmental Psychologist
   email: Kelsey.L.Frewin@gmail.com
   location: Norwich, UK
@@ -33,8 +33,8 @@ cv:
         score: ""
         courses: 
         highlights:
-          - Frewin et al. (2026): earliest evidence of verb comprehension in infancy, demonstrating that 10-month-olds recognise mislabelled actions.
-          - Frewin et al. (2025): showed that infants’ motor development is more strongly associated with verb than noun vocabulary growth, suggesting a role for infants’ own actions in verb learning.
+          - [Frewin et al. (2026)](https://doi.org/10.1016/j.cortex.2025.12.009) earliest evidence of verb comprehension in infancy, demonstrating that 10-month-olds recognise mislabelled actions.
+          - [Frewin et al. (2025)](https://doi.org/10.1111/infa.12638) showed that infants’ motor development is more strongly associated with verb than noun vocabulary growth, suggesting a role for infants’ own actions in verb learning.
 
       - institution: University of Sussex
         location: Brighton, UK
@@ -54,42 +54,21 @@ cv:
         
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Cardiff University
+        position: Research Assistant
+        location: Cardiff, UK
+        start_date: 2017
+        end_date: 2019
+        summary: Research assistant in the [Tiny to Tots](https://www.cardiff.ac.uk/research/explore/research-units/tiny-to-tots) lab at Cardiff University, working with Sarah Gerson, Ross Vanderwert, and Travis Proulx.
         highlights:
-          - Relativity
-          - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of East Anglia
+        position: Senior Research Associate
+        location: Norwich, UK
+        start_date: 2023
+        end_date: 2026
+        summary: Postdoc on ESRC-funded Baby Language & Conceptual Knowledge Study (BLoCKS) with Teodora Gliga (UEA), Marie Smith (Birkbeck), Nadja Althaus (UEA), and Evelyne Mercure (Goldsmiths).
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Volunteer:
       - company: People's Climate March
@@ -102,21 +81,40 @@ cv:
           - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
           - "Men of the year 2014 by Time magazine"
 
-    Awards:
-      - title: Nobel Prize in Physics
+    Funding and Awards:
+      - title: Junior Researcher of the Year Award
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "Cardiff University "
+        date: 2020
+        awarder: Cardiff University 
+        url:
+      
+      - title: Fully Funded Student-Led PhD Studentship
+        authors:
+          - "ESRC Wales Doctoral Training Partnership"
+        date: 2019
+        awarder: ESRC Wales Doctoral Training Partnership, Cardiff University
+        url: https://wgsss.ac.uk/profile/kelsey-frewin/
+        
+      - title: ESRC Festival of Social Science Event Funding
+        authors:
+          - "ESRC"
+        date: 2018
+        awarder: ESRC
+        summary: Stepping Into the Minds of Children
+        
+      - title: Chancellor’s Masters Scholarship
+        authors:
+          - "University of Sussex"
+        date: 2015
+        awarder: University of Sussex
 
-      - title: Max Planck Medal
+      - title: Excellence Scholarship
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Aberystwyth University"
+        date: 2011
+        awarder: Aberystwyth University
+        
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
