@@ -1,35 +1,46 @@
+/* ========================================
+   Kelsey Frewin — easy-to-edit theme
+   ======================================== */
+
+
+/* ☀️ LIGHT THEME */
 :root {
-  /* ========================================
-     Kelsey Frewin colour palette
-     ======================================== */
 
-  --dusk-blue: #26547c;
-  --bubblegum-pink: #ef476f;
-  --royal-gold: #ffd166;
-  --emerald: #06d6a0;
+  /* Change these colours to customise your site */
 
-  /* ========================================
-     al-folio theme colours
-     ======================================== */
+  --background: #fffaf5;       /* page background */
+  --text: #333333;             /* normal text */
+  --accent: #26547c;           /* main blue */
+  --highlight: #8e7dbe;        /* links, highlights & hover */
+  --heading: #26547c;           /* headings */
 
-  --global-theme-color: var(--dusk-blue);
-  --global-hover-color: var(--bubblegum-pink);
+
+  /* Tell al-folio which colours to use */
+
+  --global-bg-color: var(--background);
+  --global-text-color: var(--text);
+  --global-theme-color: var(--accent);
+  --global-hover-color: var(--highlight);
 }
 
+
+/* 🌙 DARK THEME */
 html[data-theme="dark"] {
-  /* ========================================
-     Kelsey Frewin colour palette
-     ======================================== */
 
-  --dusk-blue: #26547c;
-  --bubblegum-pink: #ef476f;
-  --royal-gold: #ffd166;
-  --emerald: #06d6a0;
+  /* Change these colours for dark mode */
 
-  /* ========================================
-     al-folio theme colours
-     ======================================== */
+  --background: #202733;       /* dark page background */
+  --text: #eeeeee;             /* light text */
+  --accent: #ffd166;           /* main accent */
+  --highlight: #c4b5e8;       /* links, highlights & hover */
+  --heading: #ffd166;          /* headings */
 
-  --global-theme-color: var(--royal-gold);
-  --global-hover-color: var(--bubblegum-pink);
+
+  /* Tell al-folio which colours to use */
+
+  --global-bg-color: var(--background);
+  --global-text-color: var(--text);
+  --global-theme-color: var(--accent);
+  --global-hover-color: var(--highlight);
 }
+
