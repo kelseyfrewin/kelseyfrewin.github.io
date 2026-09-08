@@ -16,10 +16,10 @@ cv:
 
   address:
     street: 
-    city: 
+    city: Norwich
     region: 
     postalCode:
-    countryCode: 
+    countryCode: UK
 
   sections:
     Education:
