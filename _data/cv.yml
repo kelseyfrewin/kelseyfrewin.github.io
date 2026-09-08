@@ -70,7 +70,7 @@ cv:
         summary: Postdoc on ESRC-funded Baby Language & Conceptual Knowledge Study (BLoCKS) with Teodora Gliga (UEA), Marie Smith (Birkbeck), Nadja Althaus (UEA), and Evelyne Mercure (Goldsmiths).
         highlights:
 
-    Funding and Awards:
+    Awards:
       - title: Junior Researcher of the Year Award
         authors:
           - "Cardiff University "
@@ -105,22 +105,20 @@ cv:
         awarder: Aberystwyth University
         
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Electrophysiological evidence of infants’ understanding of verbs
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+          - Frewin, K L., Vanderwert, R E., Gambi, C., Renoult, L. & Gerson, S A.
+        publisher: Cortex
+        releaseDate: 2026
+        url: https://doi.org/10.1016/j.cortex.2025.12.009
+    
+      - title: Parent-Reported Relations Between Vocabulary and Motor Development in Infancy: Differences Between Verbs and Nouns
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
+          - Frewin, K L., Gerson, S A., Vanderwert, R E., & Gambi, C.
+        publisher: Infancy
+        releaseDate: 2025
+        url: https://doi.org/10.1111/infa.12638
+        
       - title: Die Grundlage der allgemeinen Relativitätstheorie
         authors:
           - Albert Einstein
