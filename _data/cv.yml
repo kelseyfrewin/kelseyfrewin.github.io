@@ -125,6 +125,18 @@ cv:
         publisher: "Infancy"
         releaseDate: 2025
         url: https://doi.org/10.1111/infa.12638
+
+      - title: "The who, when, and why of pacifier use"
+        authors:
+          - "Mitev, K."
+          - "Frewin, K. L."
+          - "Augustinova, M."
+          - "Niedenthal, P. M."
+          - "Rychlowska, M."
+          - "Vanderwert, R. E."
+        publisher: "Pediatric Research"
+        releaseDate: 2025
+        url: https://doi.org/10.1038/s41390-024-03540-6
         
       - title: Die Grundlage der allgemeinen Relativitätstheorie
         authors:
