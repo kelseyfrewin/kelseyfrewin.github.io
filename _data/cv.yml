@@ -70,17 +70,6 @@ cv:
         summary: Postdoc on ESRC-funded Baby Language & Conceptual Knowledge Study (BLoCKS) with Teodora Gliga (UEA), Marie Smith (Birkbeck), Nadja Althaus (UEA), and Evelyne Mercure (Goldsmiths).
         highlights:
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
     Funding and Awards:
       - title: Junior Researcher of the Year Award
         authors:
@@ -115,7 +104,6 @@ cv:
         date: 2011
         awarder: Aberystwyth University
         
-
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
@@ -148,11 +136,11 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: English
         summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
+      - name: British Sign Language
+        summary: "Beginner"
 
     Interests:
       - name: Physics
