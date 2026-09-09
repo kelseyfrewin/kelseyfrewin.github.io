@@ -138,7 +138,7 @@ cv:
         releaseDate: 2025
         url: https://doi.org/10.1038/s41390-024-03540-6
         
-      - title: What is going on in babies’ brains when they learn to do something?
+      - title: "What is going on in babies’ brains when they learn to do something?"
         authors:
           - "Frewin, K. L."
           - "McEwen, E. "
@@ -149,18 +149,7 @@ cv:
         releaseDate: 2019
         url: https://doi.org/https://doi.org/10.3389/frym.2019.00044
 
-      - title: What is going on in babies’ brains when they learn to do something?
-        authors:
-          - "Frewin, K. L."
-          - "McEwen, E. "
-          - "Gerson, S. A."
-          - "Bekkering, H."
-          - "Hunnius, S."
-        publisher: "Frontiers for Young Minds"
-        releaseDate: 2019
-        url: https://doi.org/https://doi.org/10.3389/frym.2019.00044
-
-      - title: A Guide to EEG Decoding: From experiment design to Multivariate Pattern Analysis.
+      - title: "A Guide to EEG Decoding: From experiment design to Multivariate Pattern Analysis."
         authors:
           - "Frewin, K. L."
           - "Watson, E. A. G."
