@@ -6,20 +6,7 @@ cv:
   image: ""
   summary: A developmental psychologist exploring how babies make sense of objects, actions, and words in the world around them. My research combines behavioural and neurophysiological methods, including EEG and eye-tracking, to understand how language and everyday experience shape early cognitive development.
 
-  social_networks:
-    - network: orcid
-      username: 0000-0003-0632-9942
-    - network: github
-      username: kelseyfrewin
-    - network: googlescholar
-      username: 9vvRMtsAAAAJ
-    - network: linkedin
-      username: kelsey-frewin-162801130
-    - network: bluesky
-      username: kelseyfrewin.bsky.social
-    - network: x
-      username: kelsey_frewin
-
+  
   sections:
     social_networks:
       - network: orcid
