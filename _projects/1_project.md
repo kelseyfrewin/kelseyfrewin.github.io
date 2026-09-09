@@ -26,6 +26,21 @@ Verbs – such as _“wave”_, _“eat”_, and _“open”_ – are essential 
 
 During my PhD, I used electroencephalography (EEG) to measure infants' brain activity (specifically N400 component) while they watched videos of everyday actions, such as waving or walking. These actions were paired with either matching verbs (e.g., _"wave!"_, _"walk!"_) or mismatching verbs (e.g., _"dance!"_, _"kiss!"_). We found that **by just 10 months of age, infants detected when an action had been labelled incorrectly**. This finding provides the earliest evidence to date that infants understand the meanings of some verbs.
 
+<h2>Relevant Publications</h2>
+
+<a href="https://kelseyfrewin.github.io/blog/2026/cortex-verbs/" style="text-decoration: none;">
+  <div class="card mt-3 mb-4">
+    <div class="card-body">
+      <h4>Publication</h4>
+      <h5>Electrophysiological evidence of infants' understanding of verbs</h5>
+      <p>
+        When do infants first begin grasping the meaning of verbs? To learn verbs – words             that describe actions and events – theorists suggest that infants must employ word            segmentation, event processing, and verb-to-action mapping skills. Prior research             suggests that many of these skills emerge by approximately 10 months...
+      </p>
+      <p><strong>Read more →</strong></p>
+    </div>
+  </div>
+</a>
+
 ## Relevant References
 
 Bergelson, E., & Swingley, D. (2012). At 6-9 months, human infants know the meanings of many common nouns. _Proceedings of the National Academy of Sciences, 109_(9), 3253–3258. https://doi.org/10.1073/pnas.1113380109
