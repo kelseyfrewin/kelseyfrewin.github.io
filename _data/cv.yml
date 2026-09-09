@@ -161,6 +161,24 @@ cv:
         publisher: "In F. F. Santos. (Ed.), Event-Related Potentials: Methods for reproducible research. Springer Nature."
         releaseDate: "Under Review"
         url: https://link.springer.com/series/7657
+
+      - title: "What comes first, the CHICKEN or the [word] chicken? The developmental interplay between conceptual and language learning."
+        authors:
+          - "Frewin, K. L."
+          - "Althaus, N."
+          - "Samuelson, L."
+          - "Gliga, T."
+        releaseDate: "Under Review"
+
+      - title: "“To Achieve Anything, I Have to Be His Champion”: Lived Experiences of Deaf Children’s Parents"
+        authors:
+          - "Mercure, E."
+          - "Butt, T."
+          - "Frewin, K. L."
+          - "Mejia, E."
+          - "Althaus, N."
+        releaseDate: "Under Review"
+       
         
     Skills:
       - name: Physics
