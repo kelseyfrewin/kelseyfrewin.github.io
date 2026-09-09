@@ -25,6 +25,3 @@ My research explores when infants first begin to understand verbs and how their 
 
 During my PhD, I used electroencephalography (EEG) to measure infants' brain activity while they watched videos of everyday actions, such as waving or walking. These actions were paired with either matching verbs (e.g., "wave!", "walk!") or mismatching verbs (e.g., "dance!", "kiss!"). We found that by just 10 months of age, infants detected when an action had been labelled incorrectly. This finding provides the earliest evidence to date that infants understand the meanings of some verbs.
 
-
-
-{% endraw %}
