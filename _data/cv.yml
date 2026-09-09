@@ -1,5 +1,5 @@
 cv:
-  name: Kelsey L. Frewin
+  name: Kelsey Frewin
   label: Developmental Psychologist
   email: kelsey.l.frewin@gmail.com
   location: "Norwich, UK"
@@ -7,17 +7,17 @@ cv:
   summary: A developmental psychologist exploring how babies make sense of objects, actions, and words in the world around them. My research combines behavioural and neurophysiological methods, including EEG and eye-tracking, to understand how language and everyday experience shape early cognitive development.
 
   social_networks:
-    - network: ORCiD
+    - network: orcid
       username: 0000-0003-0632-9942
-    - network: GitHub
+    - network: github
       username: kelseyfrewin
-    - network: Google Scholar
+    - network: googlescholar
       username: 9vvRMtsAAAAJ
-    - network: LinkedIn
+    - network: linkedin
       username: kelsey-frewin-162801130
-    - network: BlueSky
+    - network: bluesky
       username: kelseyfrewin.bsky.social
-    - network: Twitter
+    - network: x
       username: kelsey_frewin
 
   sections:
@@ -231,20 +231,6 @@ cv:
         issuer: Stanford University
         icon: fa-solid fa-envelope
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Available upon request
+        
