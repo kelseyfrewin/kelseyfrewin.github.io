@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Verb Learning 
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -37,11 +37,11 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/baby-waving.jpg" title="mum and baby waving" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Photo by <a href="https://unsplash.com/@nappystudio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nappy</a> on <a href="https://unsplash.com/photos/a-person-holding-a-baby-fLI3NJeFz0c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
