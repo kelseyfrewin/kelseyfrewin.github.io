@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New publication: Electrophysiological evidence of infants’ understanding of verbs
+title: "New publication: Electrophysiological evidence of infants’ understanding of verbs"
 date: 2026-01-28 09:00:00
 description: Infants understand the meaning of several everyday verbs by 10 months
 tags: verb-learning, eeg, n400, infancy, publications
