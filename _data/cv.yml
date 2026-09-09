@@ -6,11 +6,10 @@ cv:
   image: ""
   summary: A developmental psychologist exploring how babies make sense of objects, actions, and words in the world around them. My research combines behavioural and neurophysiological methods, including EEG and eye-tracking, to understand how language and everyday experience shape early cognitive development.
 
-
   Interests:
-    - name: Research Interests
+    - name: "Research Interests"
       icon: fa-solid fa-tag
-      keywords: "verb learning", "embodied learning", "language development", "conceptual development", "categorisation", "deafness", "infant EEG methods", 
+      keywords: ["verb learning", "embodied learning", "language development", "conceptual development", "categorisation", "deafness", "infant EEG methods"]
 
   social_networks:
     - network: ORCiD
