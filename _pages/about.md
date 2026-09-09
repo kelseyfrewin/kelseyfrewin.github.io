@@ -34,7 +34,9 @@ I completed my doctoral studies at the [Cardiff University Centre for Human Deve
 
 ## Postdoctoral Research :bar_chart:
 
-Since 2023, I have been a postdoctoral researcher at the [University of East Anglia](https://www.uea.ac.uk/about/school-of-psychology) investigating infant object categorisation as part of the [Baby Language & Conceptual Knowledge (BLoCKS) team](https://www.gligalab.co.uk/conceptual-development). In this work, I have been figuring out which object categories – such as books, balls, and cows – babies recognise from their experiences at home, using machine learning approaches to infant EEG. I have also been working with deaf babies born to hearing families to understand whether access to language helps babies learn about these categories. You can read more about what I've been up to with BLoCKS [here](/Research/).
+Since 2023, I have been a postdoctoral researcher at the [University of East Anglia](https://www.uea.ac.uk/about/school-of-psychology) investigating infant object categorisation as part of the [Baby Language & Conceptual Knowledge (BLoCKS)](https://www.gligalab.co.uk/conceptual-development) team. In this work, I have been figuring out which object categories – such as books, balls, and cows – babies recognise from their experiences at home, using machine learning approaches to infant EEG. 
+
+I have also been working with deaf babies born to hearing families to understand whether access to language helps babies learn about these categories. You can read more about what I've been up to with BLoCKS [here](/Research/).
 
 ## Methods :brain:
 
