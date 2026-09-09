@@ -216,21 +216,16 @@ cv:
         summary: "Beginner"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
+      - name: 3rd International Workshop on Naturalistic Experimentation of Child Development
+        date: 2026
+        issuer: Birkbeck, University of London
+      - name: 33rd EEGLAB Summer School Workshop
+        date: 2023
+        issuer: EEGLAB
+      - name: Neurocognitive Methods for Infant and Toddler Research Summer School
+        date: 2017
+        issuer: Utrecht University
+      
     References:
       - name: Available upon request
         
