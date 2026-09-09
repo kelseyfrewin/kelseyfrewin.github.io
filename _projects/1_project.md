@@ -8,74 +8,23 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Around their first birthday, children begin saying their first words. For many, these are nouns, such as names for caregivers (e.g., mama) or familiar objects (e.g., ball) that feature prominently in their daily lives. However, long before they begin speaking, infants already understand many of their earliest words. Research suggests that infants know the meanings of many common nouns by 6 to 9 months of age, months before they produce their first words or their parents recognise how much they understand. For example, looking-time studies by Bergelson and Swingley (2012, 2013) and electrophysiological work by Parise and Csibra (2012) demonstrate that infants already possess knowledge of word meanings during the first year of life. Despite this early knowledge, children's vocabularies remain dominated by nouns for some time, even though caregivers frequently use many other types of words, including verbs.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Verbs – such as “run”, “eat”, and “open” – are essential for communication because they allow children to talk about actions, make requests, and eventually build sentences. Yet learning verbs is often more difficult than learning nouns. Unlike objects, actions are fleeting and constantly changing. To learn what a verb means, a child must focus on the relevant action at just the right moment, making it more difficult to identify what the word refers to. This may help explain why verbs typically appear later than nouns in children's spoken vocabularies.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/baby-waving.jpg" title="mum and baby waving" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Photo by <a href="https://unsplash.com/@nappystudio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nappy</a> on <a href="https://unsplash.com/photos/a-person-holding-a-baby-fLI3NJeFz0c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+<div class="caption"> A mum and baby waving! Photo by <a href="https://unsplash.com/@nappystudio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nappy</a> on <a href="https://unsplash.com/photos/a-person-holding-a-baby-fLI3NJeFz0c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+My research explores when infants first begin to understand verbs and how their own experiences of action on the world may support this process. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+During my PhD, I used electroencephalography (EEG) to measure infants' brain activity while they watched videos of everyday actions, such as waving or walking. These actions were paired with either matching verbs (e.g., "wave!", "walk!") or mismatching verbs (e.g., "dance!", "kiss!"). We found that by just 10 months of age, infants detected when an action had been labelled incorrectly. This finding provides the earliest evidence to date that infants understand the meanings of some verbs.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
 {% endraw %}
