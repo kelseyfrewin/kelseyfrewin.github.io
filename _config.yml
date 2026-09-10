@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Kelsey L. Frewin # the website title (if blank, full name will be used instead)
 first_name: Kelsey
 middle_name: L.
 last_name: Frewin
@@ -356,8 +356,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Frewin]
+  first_name: [Kelsey, L.]
 
   style: apa
   locale: en
