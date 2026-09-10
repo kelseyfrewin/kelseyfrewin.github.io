@@ -17,9 +17,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## Hello! :sparkles:
-
-I'm Dr Kelsey Frewin. I'm a postdoctoral researcher in developmental psychology and my research explores how **babies** :baby: come to understand **objects** :soccer:, **actions** :running:, and the **words** :speech_balloon::love_you_gesture: their parents use to describe them. 
+Hello, I'm Dr Kelsey Frewin. I'm a postdoctoral researcher in developmental psychology and my research explores how **babies** :baby: come to understand **objects** :soccer:, **actions** :running:, and the **words** :speech_balloon::love_you_gesture: their parents use to describe them. 
 
 Specifically, I research early cognitive development in infancy, focusing on _when_ and _how_ babies learn words and the role that access to language plays in how babies learn to recognise objects and divide up the world around them. 
 
