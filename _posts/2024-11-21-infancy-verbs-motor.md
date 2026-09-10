@@ -3,7 +3,7 @@ layout: post
 title: "New publication: Parent-Reported Relations Between Vocabulary and Motor Development in Infancy: Differences Between Verbs and Nouns"
 date: 2024-11-21
 description: Infants verb knowledge is strongly linked to their motor experience.
-tags: verb-learning, motor-development,actions, infancy, publications
+tags: verb-learning, motor-development, actions, infancy, publications
 categories: publication
 featured: true
 ---
