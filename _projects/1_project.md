@@ -42,7 +42,7 @@ Here, I asked parents of infants aged 6 to 24 months to report the gross and fin
 >
 > During early development, increases in vocabulary are related to gains in motor ability, above and beyond the effects of maturation alone. However, little is known about the association between motor development and children’s early acquisition of different types of words...
 >
-> [Read the full post →](https://kelseyfrewin.github.io/blog/2024/infancy-verbs-motor/))
+> [Read the full post →](https://kelseyfrewin.github.io/blog/2024/infancy-verbs-motor/)
 
 ### Related References
 
