@@ -14,13 +14,6 @@ Around their first birthday, children begin saying their first words. For many, 
 
 Verbs – such as _“wave”_, _“eat”_, and _“open”_ – are essential for communication because they allow children to talk about actions, make requests, and eventually build sentences. Yet learning verbs is often more difficult than learning nouns. Unlike objects, actions are fleeting and constantly changing. To learn what a verb means, a child must focus on the relevant action at just the right moment, making it more difficult to identify what the word refers to. This may help explain why verbs typically appear later than nouns in children's spoken vocabularies. As with nouns, children likely understand verbs before they can say them, but exactly when this early understanding begins has remained an open question.
 
-<div class="float-left mr-3 mb-3" style="max-width: 300px;">
-    {% include figure.liquid loading="eager" path="assets/img/baby-waving.jpg" title="mum and baby waving" class="img-fluid rounded z-depth-1" %}
-    <div class="caption" style="font-size: 0.85em;">
-        A mum and baby waving! Photo by <a href="https://unsplash.com/@nappystudio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nappy</a> on <a href="https://unsplash.com/photos/a-person-holding-a-baby-fLI3NJeFz0c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-    </div>
-</div>
-
 ## When do infants begin to understand verbs?
 
 During my PhD, I investigated this question using electroencephalography (EEG) to measure infants' brain activity (specifically N400 component) while they watched videos of everyday actions, such as waving or walking. These actions were paired with either matching verbs (e.g., _"wave!"_, _"walk!"_) or mismatching verbs (e.g., _"dance!"_, _"kiss!"_). 
@@ -29,7 +22,7 @@ We focused on collecting this data in 10-month-olds, but _why_? Well, theorists 
 
 And indeed, we found that **by just 10 months of age, infants detected when an action had been labelled incorrectly**, providing the earliest evidence to date that infants understand the meanings of verbs.
 
-## Read more about this study
+### Read more about this study
 
 > **Electrophysiological evidence of infants' understanding of verbs**
 >
@@ -37,6 +30,11 @@ And indeed, we found that **by just 10 months of age, infants detected when an a
 >
 > [Read the full post →](https://kelseyfrewin.github.io/blog/2026/cortex-verbs/)
 
+## Is verb learning tied to infants' motor development?
+
+In another of my PhD studies, I investigated whether infants' own motor experience with actions is linked to their word knowledge, and specifically whether this stronger for verbs than nouns. Why look at motor skills specifically? As verbs describe actions, which are fleeting and often abstract, I reasoned that infants' own experience of doing these actions might provide help them narrow down a verb meaning. For example, we know that caregivers frequently say verbs that describe the actions babies are engaged to in the moment (West et al., 2022, 2023) and that infants’ first verbs often describe bodily actions (Huttenlocher et al., 1983; Maouene et al., 2008, 2011).
+
+Here, I asked parents of infants aged 6 to 24 months to report the gross and fine motor actions their baby can do, and which words they already understand. I found that infants' verb comprehension was strongly associated with their motor development – more so than their noun comprehension was – even after accounting for age. This suggests that infants may draw on their own bodily experience, such as reaching, crawling, waving, to help work out the meaning of new verbs, offering a possible route to understanding these harder-to-learn words. But we need more research to directly explore whether infants’ best learn verbs when they describe actions they can do. 
 
 ## Related References
 
