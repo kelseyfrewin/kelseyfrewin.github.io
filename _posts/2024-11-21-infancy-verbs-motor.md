@@ -5,6 +5,7 @@ date: 2024-11-21
 description: Infants verb knowledge is strongly linked to their motor experience.
 tags: verb-learning, motor-development,actions, infancy, publications
 categories: publication
+featured: true
 ---
 
 Frewin, K. L., Gerson, S. A., Vanderwert, R. E., & Gambi, C. (2025). Parent‐Reported Relations Between Vocabulary and Motor Development in Infancy: Differences Between Verbs and Nouns. _Infancy, 30_(1). [https://doi.org/10.1111/infa.12638](https://doi.org/10.1111/infa.12638)
