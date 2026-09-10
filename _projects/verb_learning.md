@@ -4,7 +4,7 @@ title: Early Verb Learning
 description: 
 img: assets/img/verb_learning.png
 importance: 1
-category: work
+category: Projects
 related_publications: false
 ---
 
