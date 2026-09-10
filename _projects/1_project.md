@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-### My research on verb learning explores when infants first begin to understand verbs and how their own experiences of action on the world may support this process.
+ **My research explores when infants first begin to understand verbs and how their own experiences of acting on the world may support this process.**
 
 Around their first birthday, children begin saying their first words. For many, these are nouns, such as names for caregivers (e.g., _mama_) or familiar objects (e.g., _ball_) that feature prominently in their daily lives. However, long before they begin speaking, infants already understand many of their earliest words. Research suggests that infants know the meanings of many common nouns by 6 to 9 months of age, months before they produce their first words or their parents recognise how much they understand. For example, looking-time studies by Bergelson and Swingley (2012) and electrophysiological work by Parise and Csibra (2012) demonstrate that infants already possess knowledge of word meanings during the first year of life. Despite this early knowledge, children's vocabularies remain dominated by nouns for some time, even though caregivers frequently use many other types of words, including verbs.
 
