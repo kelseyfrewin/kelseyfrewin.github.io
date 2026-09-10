@@ -5,6 +5,7 @@ date: 2026-01-28
 description: Infants understand the meaning of several everyday verbs by 10 months
 tags: verb-learning, eeg, n400, infancy, publications
 categories: publication
+featured: true
 ---
 
 Frewin, K. L., Vanderwert, R. E., Gambi, C., Renoult, L., & Gerson, S. A. (2026). Electrophysiological evidence of infants’ understanding of verbs. _Cortex, 196_, 41–60. [https://doi.org/10.1016/j.cortex.2025.12.009](https://doi.org/10.1016/j.cortex.2025.12.009)
