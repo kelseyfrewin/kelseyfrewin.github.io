@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verb Learning 
+title: Early Verb Learning 
 description: 
 img: assets/img/verb_learning.png
 importance: 1
