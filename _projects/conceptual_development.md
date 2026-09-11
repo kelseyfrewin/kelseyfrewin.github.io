@@ -23,6 +23,8 @@ I have been exploring this work during my postdoc with the [Baby Language & Conc
     </div>
 </div>
 
+<div style="height: 40px;"></div>
+
 Across the first years of life, infants accumulate extensive experience with the objects around them. Through everyday interactions, they learn that _balls_, _books_, _cups_, and _dogs_ each belong to meaningful categories. These concepts help infants make sense of new experiences and provide a foundation for later learning and language development.
 
 Despite the importance of these early concepts, measuring what infants know is surprisingly difficult. Researchers have developed several powerful methods for studying infants' word knowledge. Parents can report which words their children understand, and laboratory measures such as eye-tracking and EEG can reveal whether infants recognise the meanings of familiar words long before they begin speaking. However, these approaches often make it difficult to separate conceptual knowledge from language knowledge.
