@@ -23,7 +23,7 @@ Specifically, I research early cognitive development in infancy, focusing on _wh
 
 ## PhD Research :books:
 
-I completed my doctoral studies at the [Cardiff University Centre for Human Developmental Science](https://www.cardiff.ac.uk/research/explore/research-units/centre-for-human-developmental-science) in 2023, exploring when babies start to understand their first verbs and links between their verb knowledge and motor development. You can read about more my PhD research [here](/Research/).
+I completed my doctoral studies at the [Cardiff University Centre for Human Developmental Science](https://www.cardiff.ac.uk/research/explore/research-units/centre-for-human-developmental-science) in 2023, with Sarah Gerson, Chiara Gambi and Ross Vanderwert, exploring when babies start to understand their first verbs and links between their verb knowledge and motor development. You can read about more my PhD research [here](/Research/).
 
 ## Postdoctoral Research :bar_chart:
 
