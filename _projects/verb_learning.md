@@ -44,6 +44,29 @@ Here, I asked parents of infants aged 6 to 24 months to report the gross and fin
 >
 > [Read the full post →](https://kelseyfrewin.github.io/blog/2024/infancy-verbs-motor/)
 
+### Funding
+
+This work was funded by my [ESRC Wales Doctoral Training Partnership Open-Call PhD Studentship](https://wgsss.ac.uk/profile/kelsey-frewin/), [Grant number: ES/P00069X/1, Reference: 2158637](https://gtr.ukri.org/projects?ref=studentship-2158637#/tabOverview).
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <a href="{{ '/assets/img/ukri_esrc.png' | relative_url }}" data-lightbox="lcicd">
+            <img src="{{ '/assets/img/ukri_esrc.png' | relative_url }}"
+                 class="rounded z-depth-1"
+                 style="height: 300px; width: auto;"
+                 alt="UKRI ESRC logo">
+        </a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <a href="{{ '/assets/img/wales-esrc-dtp.png' | relative_url }}" data-lightbox="lcicd">
+            <img src="{{ '/assets/img/wales-esrc-dtp.png' | relative_url }}"
+                 class="rounded z-depth-1"
+                 style="height: 300px; width: auto;"
+                 alt="ESRC Wales DTP logo">
+        </a>
+    </div>
+</div>
+
 ### Related References
 
 Bergelson, E., & Swingley, D. (2012). At 6-9 months, human infants know the meanings of many common nouns. _Proceedings of the National Academy of Sciences, 109_(9), 3253–3258. [https://doi.org/10.1073/pnas.1113380109](https://doi.org/10.1073/pnas.1113380109)
