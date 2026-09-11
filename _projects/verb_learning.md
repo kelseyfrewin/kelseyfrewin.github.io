@@ -53,6 +53,7 @@ This work was funded by my [ESRC Wales Doctoral Training Partnership Open-Call P
         <a href="{{ '/assets/img/ukri_esrc.png' | relative_url }}" data-lightbox="lcicd">
             <img src="{{ '/assets/img/ukri_esrc.png' | relative_url }}"
                  class="rounded z-depth-1"
+                style="height: 60px; width: auto;"
                  alt="UKRI ESRC logo">
         </a>
     </div>
@@ -60,7 +61,7 @@ This work was funded by my [ESRC Wales Doctoral Training Partnership Open-Call P
         <a href="{{ '/assets/img/wales-esrc-dtp.png' | relative_url }}" data-lightbox="lcicd">
             <img src="{{ '/assets/img/wales-esrc-dtp.png' | relative_url }}"
                  class="rounded z-depth-1"
-                 style="height: 300px; width: auto;"
+                 style="height: 60px; width: auto;"
                  alt="ESRC Wales DTP logo">
         </a>
     </div>
