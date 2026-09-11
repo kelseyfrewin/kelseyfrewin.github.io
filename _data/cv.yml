@@ -8,19 +8,6 @@ cv:
 
   
   sections:
-    social_networks:
-      - network: orcid
-        username: 0000-0003-0632-9942
-      - network: github
-        username: kelseyfrewin
-      - network: googlescholar
-        username: 9vvRMtsAAAAJ
-      - network: linkedin
-        username: kelsey-frewin-162801130
-      - network: bluesky
-        username: kelseyfrewin.bsky.social
-      - network: x
-        username: kelsey_frewin
     
     Interests:
       - name: "Research Interests"
