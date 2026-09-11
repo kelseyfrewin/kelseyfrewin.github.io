@@ -14,7 +14,7 @@ I have been exploring this work during my postdoc with the [Baby Language & Conc
 
 <div class="row mt-3 mb-5">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        <a href="{{ '/assets/img/blocks_logo.png' | relative_url }}" data-lightbox="blocks">
+        <a href="{{ '/assets/img/blocks_logo.png' | https://www.gligalab.co.uk/conceptual-development }}" data-lightbox="blocks">
             <img src="{{ '/assets/img/blocks_logo.png' | relative_url }}"
                  class="rounded z-depth-1"
                  style="height: 100px; width: auto;"
