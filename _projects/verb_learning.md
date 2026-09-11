@@ -53,7 +53,6 @@ This work was funded by my [ESRC Wales Doctoral Training Partnership Open-Call P
         <a href="{{ '/assets/img/ukri_esrc.png' | relative_url }}" data-lightbox="lcicd">
             <img src="{{ '/assets/img/ukri_esrc.png' | relative_url }}"
                  class="rounded z-depth-1"
-                 style="height: 300px; width: auto;"
                  alt="UKRI ESRC logo">
         </a>
     </div>
