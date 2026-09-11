@@ -12,7 +12,7 @@ related_publications: false
 
 I have been exploring this work during my postdoc with the [Baby Language & Conceptual Knowledge Study (BLoCKS)]( https://www.gligalab.co.uk/conceptual-development) team at the [University of East Anglia]( https://www.uea.ac.uk/about/school-of-psychology). BLoCKS is funded by an ESRC grant awarded to [Teea Gliga (PI)](https://research-portal.uea.ac.uk/en/persons/teodora-gliga/), [Nadja Althaus](https://research-portal.uea.ac.uk/en/persons/nadja-althaus/), [Marie Smith](https://www.bbk.ac.uk/our-staff/8007421/marie-smith), and [Evelyne Mercure]( https://www.gold.ac.uk/mind-body-society/people/mercure-evelyne/).
 
-<div class="row mt-3">
+<div class="row mt-3 mb-5">
     <div class="col-sm mt-3 mt-md-0 text-center">
         <a href="{{ '/assets/img/blocks_logo.png' | relative_url }}" data-lightbox="blocks">
             <img src="{{ '/assets/img/blocks_logo.png' | relative_url }}"
