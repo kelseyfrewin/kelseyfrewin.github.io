@@ -43,6 +43,6 @@ Across my research, I use a range of techniques to explore early development inc
 
 If you'd like to find out more about my work, there is more detail available in the [Publications](/publications/) and [Research](/Research/) pages.
 
-I'm always happy to hear from other researchers and curious parents! Feel free to email me at [Kelsey.L.Frewin[at]gmail.com](mailto:Kelsey.L.Frewin@gmail.com). 
+I'm always happy to hear from other researchers and curious parents! Feel free to email me at **Kelsey.L.Frewin[at]gmail.com**
 
 
