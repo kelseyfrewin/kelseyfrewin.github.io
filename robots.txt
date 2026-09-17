@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kelseyfrewin.github.io//sitemap.xml
+Sitemap: https://www.kelseyfrewin.co.uk//sitemap.xml
